@@ -1,0 +1,51 @@
+{
+    "name": "space fight",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.22",
+        "tag": "v1.12.22",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/5a74c95efabdfb2d0d4e687bbbf662ac2532527d",
+        "target": "1.12.49",
+        "pxt": "8.5.32",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#c0d1cc",
+        "#603b3a",
+        "#170e19",
+        "#775c4f",
+        "#77744f",
+        "#4f7754",
+        "#a19f7c",
+        "#4f5277",
+        "#65738c",
+        "#3a604a",
+        "#213b25",
+        "#433a60",
+        "#7c94a1",
+        "#3b2137",
+        "#2f213b"
+    ]
+}
